@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+__pycache__/
+*.py[cod]
+*$py.class
+*pycache*
+*checkpoint*
+.idea/
+.ipynb_checkpoints/
+*.ipynb
+nohup.out
+thispy/
+dist/
+build/
+textLearn.egg-info/
+user_config.py
+py_start.py
+restart.py
+
